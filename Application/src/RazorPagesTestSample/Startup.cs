@@ -7,6 +7,7 @@ using RazorPagesTestSample.Data;
 
 namespace RazorPagesTestSample
 {
+    //Test
     public class Startup
     {
         public void ConfigureServices(IServiceCollection services)
